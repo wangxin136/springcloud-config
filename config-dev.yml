@@ -1,4 +1,4 @@
-# master分支
+master分支
 eureka:
   client:
     register-with-eureka: true
