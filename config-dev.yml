@@ -1,4 +1,6 @@
-dev分支
+spring:
+  application:
+    name: dev
 eureka:
   client:
     register-with-eureka: true
