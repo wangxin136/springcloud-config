@@ -1,4 +1,6 @@
-main分支
+spring:
+  application:
+    name: main
 eureka:
   client:
     register-with-eureka: true
