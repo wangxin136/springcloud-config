@@ -1,4 +1,4 @@
-# main分支
+main分支
 eureka:
   client:
     register-with-eureka: true
