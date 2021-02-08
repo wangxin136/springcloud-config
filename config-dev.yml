@@ -1,4 +1,6 @@
-master分支
+spring:
+  application:
+    name: master
 eureka:
   client:
     register-with-eureka: true
